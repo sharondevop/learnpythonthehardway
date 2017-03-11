@@ -23,7 +23,7 @@ def age_calculator( arg, arg2):
     return;
 
 
-print "I'm calling 'age_calculator' with variables from our script: %s " % script_name
+print "I'm calling 'age_calculator' with variables from our script: %s " % script_name # print script name
 my_year_birth = 1983 #set year birth
 my_month_birth = 1 #set month birth
 age_calculator(my_month_birth, my_year_birth)
